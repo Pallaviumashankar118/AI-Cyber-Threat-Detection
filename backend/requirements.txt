@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+python-dotenv
+faker
+numpy
+scikit-learn
+reportlab
